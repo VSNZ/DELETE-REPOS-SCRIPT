@@ -1,4 +1,4 @@
-# DELETE REPOS SCRIPT #
+# DELETE REPOSITORIES USING A POWERSHELL SCRIPT #
 
 > [!WARNING]
 > _Use this script with caution, deleting repositories is IRREVERSIBLE!_
